@@ -22,7 +22,7 @@ Este projeto demonstra como usar RedisGears para monitorar chaves no Redis e tra
    - Subir o Postgres na porta 5432 🟦
    - Montar automaticamente o script `registra-gear-interno.py` no RedisGears 📄
 
-2. **(Opcional) Registre manualmente o script RedisGears (caso necessário):**
+2. **Registre manualmente o script RedisGears (caso necessário):**
 
    ```sh
    # entre no container
